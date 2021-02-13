@@ -1,1 +1,1 @@
-Firefox add-on for open e-class cources administration
+open e-class cources administration Firefox add-on 
